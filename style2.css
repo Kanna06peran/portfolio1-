@@ -1,0 +1,18 @@
+*{margin: 0%;padding: 0%;}
+body{font-family:'young serif',serif;}
+.container{padding: 50px;}
+.section-1{background-color: black;color:white;padding: 20px;border-radius: 10px;margin-bottom: 30px;}
+.section-1__name{font-size: 60px;margin-bottom: 5px;text-decoration: none;}
+.section-1__role{font-size: 30px;margin-bottom: 5px;}
+.section-1__home{background-color: orangered;padding-top: 5px;padding-bottom: 5px;
+padding-left: 10px;padding-right: 10px;border-radius: 10px;color: black;
+text-decoration: none;font-size: 20px;margin-top: 10px;}
+.section-2{font-size: 50px;margin-top:20px;padding: 50px;}
+.section-2__name,.section-2__email,.section-2__mess,.section-2__submit{margin-top: 10px;}
+.section-2__name{padding: 10px;margin: 10px;border: none;border-bottom: solid black 1px;}
+.section-2__email{padding: 10px;margin: 10px;border: none;border-bottom: solid black 1px;}
+.section-2__submit{padding-top: 10px;padding-bottom: 10px;padding-left: 20px;padding-right: 20px;
+background-color: orangered;border: solid black 1px;}
+.section-2__mess{padding: 10px;margin: 10px;border: none;border-bottom: solid black 1px;height: 90px;}
+.section-3{background-color: black;color: white;vertical-align: bottom;
+padding-left: 20px;border-radius: 10px;padding: 20px;}
